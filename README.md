@@ -1,4 +1,4 @@
-# Blood Bank Starter Guide
+# Blood Bank Application
 
 This project was bootstrapped using [Create React App](https://github.com/facebook/create-react-app), providing a solid foundation for developing and deploying React applications quickly.
 
